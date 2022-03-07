@@ -14,7 +14,7 @@ Below are summary stats for December and June respectively:
 
 ![ summary_june](Resources/summary_june.PNG)
 ## Summary
-With such little temperature variation throughout the year Hawaii is the perfect place for outdoor recreation, with such a low standard deviation the temperature is stable year-round.  Preforming a query to get the precipitation by station each station for June and December would be the next recommend eight queries to preform on this data set as the precipitation amount varied greatly throughout the year. Below is the precipitation by month, week and day respectively:
+With such little temperature variation throughout the year Hawaii is the perfect place for outdoor recreation, with such a low standard deviation the temperature is stable year-round.  Preforming a query to get the precipitation by station for each station for June and December would be the next recommend eight queries to preform on this data set as the precipitation amount varied greatly throughout the year. Below is the precipitation by month, week and day respectively:
 
 ![ precip_per_month](Resources/precip_per_month.PNG)
 
